@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stair-coin
+- 👀 What is Stair Coin.. ...
+- 🌱 I’m currently learning stairwaves.org
+- 💞️ The" Stair " coin is a waves based cryptocurrency created on the Waves network. Waves is a crypto Mercantile Exchange with many cryptocurrencies. Stair coin Waves opened for trading on the exchange. We aim to be listed on other exchanges by completing the road map as soon as possible. Stair coin works with blockchain technology. It maintains a decentralized and transparent service. Checks are always carried out so that there is no price manipulation. We will be taking action for other exchanges soon following approval proceedings on the Waves exchange.
