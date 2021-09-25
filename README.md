@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stair-coin
                           stairwaves.org               
 
-Stair ©  is a community driven project built on waves.exchange #waves. 
+Stair ©  is a community driven project built on waves.exchange #waves
 
 
 💠TOKENOMICS
