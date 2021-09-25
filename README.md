@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stair-coin
-                   stairwaves.org.IO
+                          stairwaves.org               
 
 Stair ©  is a community driven project built on waves.exchange #waves. 
 
