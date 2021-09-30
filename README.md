@@ -20,7 +20,5 @@ Stair ©  is a community driven project built on waves.exchange #waves
 ⚡ SOCIAL NETWORK
 - Website: https://stairwaves.org
 - Telegram Group: https://t.me/stairwaves
-- Twitter: https://twitter.com/stair2021
-- İnstagram:https://instagram.com/staircoinnft
-- Facebook:https://facebook.com/stairtoken
+- Twitter: https://twitter.com/CoinStair
 - Github: https://github.com/stair-coin
